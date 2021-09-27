@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "801573175802",
+    "firebase_url": "https://searchapp-b14a2-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "searchapp-b14a2",
+    "storage_bucket": "searchapp-b14a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801573175802:android:2acc33df9aaf9b5dd9a443",
+        "android_client_info": {
+          "package_name": "com.example.searchapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801573175802-cbr83sd7kb8ru80hhs6h351pbk62ree2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2PjlmpXe-sYghd22JLdvBjXigM5n-vck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801573175802-cbr83sd7kb8ru80hhs6h351pbk62ree2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
